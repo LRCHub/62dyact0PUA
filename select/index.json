@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ルナティック・デスティニー",
+  "base_artist": "SiLENT←NOiSE",
+  "createdAt": "2026-03-13T03:37:09.056450Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ルナティック・デスティニー",
+      "artist": "SiLENT←NOiSE",
+      "has_synced": false,
+      "path": "select/pl_01_ルナティック・デスティニー_SiLENT←NOiSE.txt"
+    }
+  ]
+}
